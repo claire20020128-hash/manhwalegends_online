@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
+    "name": "Manhwa Legends",
+    "shortName": "Manhwa Legends",
     "tagline": "Fan-Made Community Wiki",
-    "description": "Your complete companion for VV: ULTIMATUM on Roblox. Master all three races Shinigami, Quincy, and Hollow with in-depth guides, boss strategies, build optimization, and the latest codes.",
+    "description": "Your complete companion for Manhwa Legends on Roblox. Summon powerful manhwa-inspired heroes, build your squad, evolve and awaken units, and defend the world across challenging tower defense modes.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -21,23 +21,22 @@
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — Codes, Builds, Guides | VV Ultimatum Wiki",
-      "description": "Complete VV: ULTIMATUM wiki with active codes, boss strategies, race guides, build optimization, and progression walkthroughs for Shinigami, Quincy, and Hollow."
+      "title": "Manhwa Legends — Codes, Tier List & Beginner Guide | Manhwa Legends Wiki",
+      "description": "Manhwa Legends Wiki for Roblox with working codes, unit tier lists, beginner guides, traits, evolution tips, team building, raids, and progression help."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Your complete companion for VV: ULTIMATUM on Roblox. Master all three races Shinigami, Quincy, and Hollow with in-depth guides, boss strategies, build optimization, and the latest codes.",
+      "eyebrow": "Manhwa-Inspired Tower Defense RPG",
+      "title": "Manhwa Legends Wiki",
+      "description": "Summon powerful manhwa-inspired heroes, build your squad, evolve and awaken units, and defend the world across challenging tower defense modes.",
       "stats": [
-        "Launched Jun 5",
-        "Updated Jun 11",
-        "3 Races",
-        "Lv100 Cap",
-        "130+ Skills"
+        "104K+ Discord Members",
+        "25K+ Discord Online",
+        "38.7K+ Trailer Views",
+        "Released on Roblox"
       ],
-      "primaryCta": "Start Beginner Guide",
-      "secondaryCta": "Compare Races",
-      "tertiaryCta": "Check Active Codes",
+      "primaryCta": "Get Started",
+      "secondaryCta": "View Codes",
+      "tertiaryCta": "Read Beginner Guide",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -138,15 +137,15 @@
       ]
     },
     "aboutGame": {
-      "title": "What is VV: ULTIMATUM?",
+      "title": "What is Manhwa Legends?",
       "paragraphs": [
-        "VV: ULTIMATUM is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Manhwa Legends is a manhwa-inspired tower defense RPG on Roblox where you summon powerful heroes inspired by Korean manhwa aesthetics. Build your squad, evolve and awaken units, and defend the world across challenging tower defense modes with unique traits and abilities.",
+        "Whether you're summoning your first legendary hero, evolving units to unlock powerful traits, or mastering team compositions for difficult tower defense stages, our wiki covers every system with detailed guides, tier lists, codes, and step-by-step walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Kooku"
         },
         {
           "label": "Platform",
@@ -154,23 +153,23 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Discord Members",
+          "value": "104K+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Discord Online",
+          "value": "25K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Trailer Views",
+          "value": "38.7K+"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Status",
+          "value": "Released"
         }
       ],
       "cta": "Explore All Guides"
@@ -429,8 +428,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master VV: ULTIMATUM?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Manhwa Legends?",
+      "description": "From your first hero summons to endgame tower defense challenges our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -466,19 +465,19 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Manhwa Legends Wiki",
+    "about": "Manhwa Legends Wiki is an independent fan-built guide hub covering heroes, codes, tier lists, tower defense strategies, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 VV: ULTIMATUM Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play VV: ULTIMATUM",
+    "copyright": "2026 Manhwa Legends Wiki. Not affiliated with Kooku or Roblox.",
+    "description": "Manhwa-inspired tower defense RPG on Roblox. Summon heroes, build squads, defend the world.",
+    "playGame": "Play Manhwa Legends",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Wiki & Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Hero Guides",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
