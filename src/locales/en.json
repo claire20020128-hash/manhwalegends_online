@@ -32,33 +32,33 @@
       "videoLabel": "Official media"
     },
     "updates": {
-      "title": "动态更新",
+      "title": "Latest Updates",
       "browse": "Browse All Guides",
       "viewAll": "View All"
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your VV Ultimatum Journey",
+      "title": "Your Manhwa Legends Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the basics of Manhwa Legends from your first summon with our comprehensive beginner guide covering heroes, team building, and early progression."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Active Codes",
+          "description": "Redeem all working Manhwa Legends codes for Gems, Trait Rerolls, Gold, and other valuable rewards to boost your progression."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Units & Tier List",
+          "description": "Discover the strongest heroes and units ranked by performance, from top DPS carries to essential support units for every game mode."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in VV Ultimatum."
+          "title": "Evolution Guide",
+          "description": "Learn how to evolve and awaken your units to unlock powerful traits, improve combat potential, and dominate difficult tower defense stages."
         }
       ]
     },
@@ -66,65 +66,65 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
+        "Unit Tier List",
+        "Active Codes",
+        "Evolution Guide",
         "All Boss Guides"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
+          "description": "Everything you need from your first summon to mastering the basics of team building and tower defense.",
           "href": "/beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
+          "description": "All working codes with Gems, Trait Rerolls, Gold, and other rewards to redeem before they expire.",
           "href": "/codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Unit Tier List",
+          "description": "Complete ranking of all units from S to C tier with detailed analysis and recommendations.",
+          "href": "/tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Best Units to Summon",
+          "description": "Top meta units worth your Gems, including banners, rates, and pity system strategies.",
+          "href": "/summon"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Evolution Guide",
+          "description": "Learn how to evolve and awaken units for powerful traits and improved combat potential.",
+          "href": "/evolution"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Boss Guide",
+          "description": "Complete boss strategies with team compositions, placement tactics, and reward drops.",
+          "href": "/bosses"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Game Modes",
+          "description": "Complete overview of Story, Infinite, Raids, Portals, Challenges, and Events with tips.",
+          "href": "/game-modes"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Trait Guide",
+          "description": "Essential traits for every unit role with reroll strategies and priority rankings.",
+          "href": "/traits"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Team Building",
+          "description": "Optimal team compositions for DPS, support, tank, and synergies for all content.",
+          "href": "/teams"
         }
       ]
     },
@@ -167,227 +167,243 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "VV Ultimatum Homepage Modules Navigation",
+      "title": "Manhwa Legends Homepage Modules Navigation",
       "description": "Jump straight to the eight homepage sections and scroll to the module you need.",
       "modules": [
         {
           "order": 1,
-          "name": "VV Ultimatum Codes",
-          "description": "Redeem the current VV Ultimatum code before spending rerolls so you can test faction ideas with more room to pivot.",
+          "name": "Manhwa Legends Codes",
+          "description": "Show all currently active Manhwa Legends codes, their rewards, requirements, and redemption steps. Prioritize Gems, Trait Rerolls, Gold, and other high-value rewards players search for.",
           "href": "/codes",
           "displayType": "code-cards",
           "highlights": [
             {
               "label": "day1",
-              "detail": "3× Clan Reroll + Token Booster + Focus Elixir",
+              "detail": "Gems + Trait Rerolls + Gold Boosters",
               "badge": "Active"
             }
           ]
         },
         {
           "order": 2,
-          "name": "VV Ultimatum Beginner Guide",
-          "description": "Use the first hour to lock in a faction route, learn the live controls, and push quests instead of burning resources on random rerolls.",
-          "href": "/guide/vv-ultimatum-beginner-guide-2026",
+          "name": "Manhwa Legends Beginner Guide",
+          "description": "Explain the best early-game progression path for new players, including summoning, team building, upgrades, and resource priorities. Highlight common beginner mistakes and what players should focus on first.",
+          "href": "/beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Choose a faction route before spending rerolls"
+              "detail": "Summon your first heroes and build your starter squad"
             },
             {
               "label": "2",
-              "detail": "Finish the opening path and learn the live controls"
+              "detail": "Learn the basics of tower defense combat and unit placement"
             },
             {
               "label": "3",
-              "detail": "Redeem the launch code once the Shop unlocks"
+              "detail": "Redeem codes for Gems andTrait Rerolls"
             },
             {
               "label": "4",
-              "detail": "Push story quests before side grinding"
+              "detail": "Upgrade key units and unlock basic traits"
             },
             {
               "label": "5",
-              "detail": "Start mission systems as soon as they open"
+              "detail": "Progress through Story Mode and unlock new features"
             },
             {
               "label": "6",
-              "detail": "Spend early points around one damage plan"
+              "detail": "Plan your evolution and awakening strategy"
             }
           ]
         },
         {
           "order": 3,
-          "name": "VV Ultimatum Official Links",
-          "description": "Verified destinations worth bookmarking for the real game page, community channels, and official video feed.",
-          "href": "/codes",
+          "name": "Manhwa Legends Units",
+          "description": "Provide an overview of notable Manhwa Legends units, including their roles, rarity, strengths, and general use cases. Help players understand which characters fit DPS, support, farming, and boss-focused teams.",
+          "href": "/units",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "🎮",
-              "detail": "VV: ULTIMATUM on Roblox"
+              "label": "DPS",
+              "detail": "Top damage dealers for clearing waves"
             },
             {
-              "label": "💬",
-              "detail": "Official Discord Server"
+              "label": "Support",
+              "detail": "Essential buffs and healing units"
             },
             {
-              "label": "📺",
-              "detail": "Official YouTube Channel"
+              "label": "Farm",
+              "detail": "Best units for resource grinding"
             },
             {
-              "label": "🐦",
-              "detail": "VV Ultimatum on X"
+              "label": "Boss",
+              "detail": "Specialized boss fight units"
             },
             {
-              "label": "🎵",
-              "detail": "VV Ultimatum on TikTok"
+              "label": "AoE",
+              "detail": "Area damage for swarm stages"
             },
             {
-              "label": "👥",
-              "detail": "Roblox Community Group"
+              "label": "Tank",
+              "detail": "Frontline defense units"
             }
           ]
         },
         {
           "order": 4,
-          "name": "VV Ultimatum Clans Tier List",
-          "description": "Treat Clan Rerolls as route-shaping resources. The best keeps depend on faction identity.",
+          "name": "Manhwa Legends Tier List",
+          "description": "Rank the strongest Manhwa Legends units by overall performance and usefulness. Separate top DPS, support, farm, and situational units so players can quickly decide who is worth investing in.",
           "href": "/tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Kurosaki · Shihoin · Cifer — Do not reroll"
+              "detail": "Meta-defining units — Priority investment"
             },
             {
               "label": "A",
-              "detail": "Eisenhauer · Ishida · Kamamura · Aaroniero — Keep for build"
+              "detail": "Strong units — Excellent for progression"
             },
             {
               "label": "B",
-              "detail": "Parnkgjas · Hitsugaya · Antenor — Good for leveling"
+              "detail": "Solid units — Good for specific situations"
             },
             {
               "label": "C",
-              "detail": "Schulte · Madarame · Calius — Reroll when affordable"
+              "detail": "Situational units — Niche use only"
             }
           ]
         },
         {
           "order": 5,
-          "name": "VV Ultimatum Skill Tree Tier List",
-          "description": "Builds work best when players choose a clear combat core instead of spreading Skill Points across unrelated routes.",
-          "href": "/skills/vv-ultimatum-best-skills-ranked",
-          "displayType": "tier-grid",
+          "name": "Manhwa Legends Traits",
+          "description": "Explain the Manhwa Legends trait system and which traits are most valuable for different unit roles. Cover Trait Rerolls, desirable trait effects, and how players should prioritize reroll resources.",
+          "href": "/traits",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Hakuda (melee combos) · Speed (mobility core)"
+              "label": "DPS",
+              "detail": "Attack and crit damage traits"
             },
             {
-              "label": "A",
-              "detail": "Quincy (bow pressure) · Strength (heavy hits) · Shinigami (Kido control)"
+              "label": "Support",
+              "detail": "Buffs and healing traits"
             },
             {
-              "label": "B",
-              "detail": "Hollow / Arrancar (Cero burst windows)"
+              "label": "Defense",
+              "detail": "HP and armor traits"
             },
             {
               "label": "Utility",
-              "detail": "Sense (target reading) · Misc (universal combat tools)"
+              "detail": "Cooldown and speed traits"
+            },
+            {
+              "label": "AoE",
+              "detail": "Area damage and range traits"
+            },
+            {
+              "label": "Boss",
+              "detail": "Boss-specific damage traits"
             }
           ]
         },
         {
           "order": 6,
-          "name": "VV Ultimatum Weapons Tier List",
-          "description": "Weapon choices are tied to race. Quincy get the clearest starter list, while Shinigami focus on Zanpakuto growth.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Manhwa Legends Evolution Guide",
+          "description": "Explain how unit evolution and awakening work and why they matter for progression. Cover upgrade priorities, required progression steps, and how evolving units can improve their combat potential.",
+          "href": "/evolution",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Sword — Balanced all-rounder, safest Quincy starter"
+              "label": "1",
+              "detail": "Gather evolution materials from specific stages"
             },
             {
-              "label": "A",
-              "detail": "Spear (long reach) · Longsword (safe range)"
+              "label": "2",
+              "detail": "Reach unit level requirements for evolution"
             },
             {
-              "label": "B",
-              "detail": "Greatsword · Hammer · Club — Heavy or niche pressure"
+              "label": "3",
+              "detail": "Perform evolution to unlock new traits"
             },
             {
-              "label": "C",
-              "detail": "Rifle · Rapier — Playable but outclassed"
+              "label": "4",
+              "detail": "Awaken units to boost trait effectiveness"
+            },
+            {
+              "label": "5",
+              "detail": "Prioritize evolving S and A tier units first"
+            },
+            {
+              "label": "6",
+              "detail": "Plan evolution path for late-game content"
             }
           ]
         },
         {
           "order": 7,
-          "name": "VV Ultimatum Hollow Progression Guide",
-          "description": "Hollow progression rewards patience: rushing mask removal too early can leave the final build weaker than necessary.",
-          "href": "/guide/VV-Ultimatum-bleach",
-          "displayType": "step-by-step",
+          "name": "Manhwa Legends Game Modes",
+          "description": "Introduce the major game modes available in Manhwa Legends and explain what players can expect from each one. Cover progression-oriented content such as Story, Infinite, Raids, Portals, Challenges, and newly released modes when officially announced.",
+          "href": "/game-modes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Choose a Hollow Type (Gorilla, Lizard, Turtle, Centipede)"
+              "label": "Story",
+              "detail": "Main campaign progression mode"
             },
             {
-              "label": "2",
-              "detail": "Consume Hollows and collect matching traits"
+              "label": "Infinite",
+              "detail": "Endless wave survival challenge"
             },
             {
-              "label": "3",
-              "detail": "Advance from base Hollow → Menos → Adjuchas"
+              "label": "Raids",
+              "detail": "Cooperative boss battles"
             },
             {
-              "label": "4",
-              "detail": "Push to Vasto Lorde for the 4-trait ceiling"
+              "label": "Portals",
+              "detail": "Special event dungeons"
             },
             {
-              "label": "5",
-              "detail": "Remove mask → Become Arrancar or Vastocar"
+              "label": "Challenges",
+              "detail": "Difficulty-based progression"
             },
             {
-              "label": "6",
-              "detail": "Meditate and win the Resurrection Fight"
+              "label": "Events",
+              "detail": "Limited-time game modes"
             }
           ]
         },
         {
           "order": 8,
-          "name": "VV Ultimatum Shinigami Progression Guide",
-          "description": "The Shinigami route is built around steady questing, Soul Pager missions, meditation timing, and the eventual Shikai fight.",
-          "href": "/races/vv-ultimatum-shinigami-guide",
-          "displayType": "step-by-step",
+          "name": "Manhwa Legends Summon Guide",
+          "description": "Explain the summoning and banner system, including how players obtain new units and decide when to spend Gems. Highlight valuable banner targets, rarity considerations, and resource-saving strategies for future units.",
+          "href": "/summon",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Run Main Story Quests to unlock the progression loop"
+              "label": "Banners",
+              "detail": "Current and upcoming summon banners"
             },
             {
-              "label": "2",
-              "detail": "Unlock Soul Society and buy the Soul Pager"
+              "label": "Rates",
+              "detail": "Drop rates and pity system"
             },
             {
-              "label": "3",
-              "detail": "Reach Level 25 and start meditation"
+              "label": "Strategy",
+              "detail": "When and what to summon"
             },
             {
-              "label": "4",
-              "detail": "Respond to Spirit Whispers for Shikai EXP"
+              "label": "Saving",
+              "detail": "Gem management for future units"
             },
             {
-              "label": "5",
-              "detail": "Solve the Bells Puzzle in the Inner World"
+              "label": "Reroll",
+              "detail": "Account reroll strategies"
             },
             {
-              "label": "6",
-              "detail": "Fight the Shikai NPC and unlock Shikai weapon"
+              "label": "Pity",
+              "detail": "Pity timer and guarantee system"
             }
           ]
         }
@@ -395,27 +411,35 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about VV: ULTIMATUM.",
+      "description": "Quick answers to the most common questions about Manhwa Legends.",
       "items": [
         {
-          "question": "What is VV: ULTIMATUM?",
-          "answer": "VV: ULTIMATUM is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of three races Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Manhwa Legends?",
+          "answer": "Manhwa Legends is a manhwa-inspired tower defense RPG on Roblox where you summon powerful heroes inspired by Korean manhwa aesthetics. Build your squad, evolve and awaken units, and defend the world across challenging tower defense modes with unique traits and abilities."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem codes in Manhwa Legends?",
+          "answer": "To redeem codes in Manhwa Legends, look for the Codes or Settings button in the game menu, enter the code exactly as shown, and claim your rewards for Gems, Trait Rerolls, Gold, and other valuable items."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What are the best units to summon in Manhwa Legends?",
+          "answer": "The best units depend on your playstyle and team composition. Check our Tier List for current rankings of top DPS, support, farming, and boss-focused units. Generally, focus on S and A tier units for efficient progression."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does evolution and awakening work in Manhwa Legends?",
+          "answer": "Evolution requires specific materials and unit levels. When you evolve a unit, it gains new traits and improved stats. Awakening further enhances trait effectiveness. Prioritize evolving your strongest units first to tackle harder content."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which traits should I look for in Manhwa Legends?",
+          "answer": "Look for traits that match a unit role: attack and crit damage for DPS units, buffs and healing for supports, HP and armor for tanks. Use Trait Rerolls strategically to improve high-tier units."
+        },
+        {
+          "question": "What are the best game modes for farming resources?",
+          "answer": "Story Mode is great for early progression, while Infinite Mode offers continuous farming opportunities. Raids and Events often provide exclusive evolution materials and high-value rewards."
+        },
+        {
+          "question": "How do I build an effective team in Manhwa Legends?",
+          "answer": "A balanced team typically includes DPS units for damage, support units for buffs and healing, and frontline units for defense. Consider unit synergies and traits when building your squad for different game modes."
         }
       ]
     },
@@ -428,12 +452,12 @@
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | VV Ultimatum Wiki",
-      "description": "Complete boss guides for VV: ULTIMATUM — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Bosses — Complete Guide & Walkthrough | Manhwa Legends Wiki",
+      "description": "Complete boss guides for Manhwa Legends — all boss encounters with strategies, drops, and tips for tower defense victory."
     },
     "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in VV: ULTIMATUM 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in VV: ULTIMATUM serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
+    "overviewDescription": "Complete guides for every boss encounter in Manhwa Legends tower defense modes, with strategies, team compositions, and reward information.",
+    "body": "Bosses in Manhwa Legends serve as challenging milestones in your tower defense progression. Each boss requires specific unit compositions, trait strategies, and placement tactics to defeat. From early-game bosses to endgame challenges, our guides cover attack patterns, recommended teams, and reward drops to help you prepare for every encounter.",
     "guidesTitle": "Bosses Guides",
     "readMore": "Read more",
     "new": "New",
@@ -467,7 +491,7 @@
     "playGame": "Play Manhwa Legends",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Wiki & Guides",
+    "wikiBuilder": "Wiki & Guides",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Hero Guides",
     "bossGuides": "Boss Guides",
