@@ -8,6 +8,14 @@
   },
   "nav": {
     "home": "Home",
+    "codes": "Codes",
+    "tierList": "Tier List",
+    "guide": "Guide",
+    "units": "Units",
+    "traits": "Traits",
+    "progression": "Progression",
+    "release": "Release",
+    "community": "Community",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -449,6 +457,70 @@
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
+  },
+  "codes": {
+    "meta": {
+      "title": "Codes — All Active Codes & Rewards | Manhwa Legends Wiki",
+      "description": "All working Manhwa Legends codes for Gems, Trait Rerolls, Gold, and other valuable rewards. Updated regularly with new codes and expiration dates."
+    },
+    "overviewTitle": "Codes Overview",
+    "overviewDescription": "Complete list of all active Manhwa Legends codes with their rewards, redemption steps, and expiration information. Get Gems, Trait Rerolls, Gold, and more."
+  },
+  "tierList": {
+    "meta": {
+      "title": "Tier List — Best Units Ranked | Manhwa Legends Wiki",
+      "description": "Complete tier list ranking all Manhwa Legends units from S to C tier. Find the best DPS, support, farming, and boss units for your team."
+    },
+    "overviewTitle": "Tier List Overview",
+    "overviewDescription": "Rankings of all Manhwa Legends units by overall performance and usefulness. Separate top DPS, support, farm, and situational units."
+  },
+  "guide": {
+    "meta": {
+      "title": "Guide — Beginner & Strategy Guides | Manhwa Legends Wiki",
+      "description": "Complete beginner guide and advanced strategies for Manhwa Legends. Learn summoning, team building, progression, and game modes."
+    },
+    "overviewTitle": "Guide Overview",
+    "overviewDescription": "Comprehensive guides covering everything from your first summon to advanced strategies. Includes beginner tips, progression paths, and game mode explanations."
+  },
+  "units": {
+    "meta": {
+      "title": "Units — All Heroes & Characters | Manhwa Legends Wiki",
+      "description": "Complete list of all Manhwa Legends units with their roles, rarity, strengths, and use cases. Find the best heroes for your team composition."
+    },
+    "overviewTitle": "Units Overview",
+    "overviewDescription": "Overview of all Manhwa Legends units including their roles, rarity, strengths, and general use cases. Discover which characters fit DPS, support, farming, and boss-focused teams."
+  },
+  "traits": {
+    "meta": {
+      "title": "Traits — System Guide & Best Traits | Manhwa Legends Wiki",
+      "description": "Complete guide to Manhwa Legends traits system. Learn which traits are most valuable for different unit roles and how to reroll effectively."
+    },
+    "overviewTitle": "Traits Overview",
+    "overviewDescription": "Explanation of the trait system and which traits are most valuable for different unit roles. Cover Trait Rerolls, desirable effects, and reroll strategies."
+  },
+  "progression": {
+    "meta": {
+      "title": "Progression — Evolution & Awakening Guide | Manhwa Legends Wiki",
+      "description": "Complete guide to Manhwa Legends progression including evolution, awakening, upgrade priorities, and resource management."
+    },
+    "overviewTitle": "Progression Overview",
+    "overviewDescription": "Learn how unit evolution and awakening work and why they matter for progression. Cover upgrade priorities, required steps, and combat potential improvements."
+  },
+  "release": {
+    "meta": {
+      "title": "Release — Launch Date & Platform Info | Manhwa Legends Wiki",
+      "description": "Manhwa Legends release date, early access information, platform availability, and player count statistics."
+    },
+    "overviewTitle": "Release Overview",
+    "overviewDescription": "Information about Manhwa Legends release date, early access, platform availability (Roblox), trailer views, and player count."
+  },
+  "community": {
+    "meta": {
+      "title": "Community — Discord & Social Links | Manhwa Legends Wiki",
+      "description": "Join the Manhwa Legends community on Discord, Trello, Twitter, and Reddit. Connect with other players and get the latest updates."
+    },
+    "overviewTitle": "Community Overview",
+    "overviewDescription": "Official community links including Discord server, Trello board, Twitter, and Reddit. Connect with other players and stay updated on game news."
   },
   "bosses": {
     "meta": {
