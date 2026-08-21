@@ -5,9 +5,5 @@
   "assets": {
     "directory": "./out"
   },
-  "routes": [
-    {
-      "pattern": "www.manhwalegends.online/*"
-    }
-  ]
+  "routes": ["www.manhwalegends.online/*"]
 }
