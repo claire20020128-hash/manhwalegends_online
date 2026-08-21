@@ -1,1 +1,574 @@
-{}
+{
+  "site": {
+    "name": "Manhwa Legends",
+    "shortName": "Manhwa Legends",
+    "tagline": "Wiki da Comunidade Feita por Fãs",
+    "description": "Seu companheiro completo para Manhwa Legends no Roblox. Invoque heróis poderosos inspirados em manhwas, construa seu esquadrão, evolua e desperte unidades, e defenda o mundo em desafiadores modos de tower defense.",
+    "legalNotice": "Wiki fã não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "codes": "Códigos",
+    "tierList": "Lista de Níveis",
+    "guide": "Guia",
+    "units": "Unidades",
+    "traits": "Traços",
+    "progression": "Progressão",
+    "release": "Lançamento",
+    "community": "Comunidade",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Manhwa Legends — Códigos, Lista de Níveis e Guia para Iniciantes | Wiki Manhwa Legends",
+      "description": "Wiki Manhwa Legends para Roblox com códigos funcionando, listas de níveis de unidades, guias para iniciantes, traços, dicas de evolução, construção de times, raids e ajuda de progressão."
+    },
+    "hero": {
+      "eyebrow": "RPG de Tower Defense Inspirado em Manhwas",
+      "title": "Wiki Manhwa Legends",
+      "description": "Invoque heróis poderosos inspirados em manhwas, construa seu esquadrão, evolua e desperte unidades, e defenda o mundo em desafiadores modos de tower defense.",
+      "stats": [
+        "104K+ Membros no Discord",
+        "25K+ Online no Discord",
+        "38.7K+ Visualizações do Trailer",
+        "Lançado no Roblox"
+      ],
+      "primaryCta": "Começar Agora",
+      "secondaryCta": "Ver Códigos",
+      "tertiaryCta": "Ler Guia para Iniciantes",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Todos"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Manhwa Legends",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Domine o básico de Manhwa Legends desde o seu primeiro invocamento com nosso guia abrangente para iniciantes cobrindo heróis, construção de times e progressão inicial."
+        },
+        {
+          "number": "2",
+          "title": "Códigos Ativos",
+          "description": "Resgate todos os códigos funcionando de Manhwa Legends para Gems, Rerolls de Traços, Ouro e outras recompensas valiosas para aumentar sua progressão."
+        },
+        {
+          "number": "3",
+          "title": "Unidades e Lista de Níveis",
+          "description": "Descubra os heróis e unidades mais fortes classificados por desempenho, dos principais carregadores de DPS até unidades de suporte essenciais para cada modo de jogo."
+        },
+        {
+          "number": "4",
+          "title": "Guia de Evolução",
+          "description": "Aprenda como evoluir e despertar suas unidades para desbloquear traços poderosos, melhorar o potencial de combate e dominar fases difíceis de tower defense."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta",
+      "quickLinks": [
+        "Lista de Níveis de Unidades",
+        "Códigos Ativos",
+        "Guia de Evolução",
+        "Todos os Guias de Chefes"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo que você precisa desde o primeiro invocamento até dominar o básico de construção de times e tower defense.",
+          "href": "/beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Todos os códigos funcionando com Gems, Rerolls de Traços, Ouro e outras recompensas para resgatar antes de expirarem.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Lista de Níveis de Unidades",
+          "description": "Classificação completa de todas as unidades do nível S até C com análise detalhada e recomendações.",
+          "href": "/tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Melhores Unidades para Invocar",
+          "description": "Principais unidades de meta que valem suas Gems, incluindo banners, taxas e estratégias do sistema pity.",
+          "href": "/summon"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de Evolução",
+          "description": "Aprenda como evoluir e despertar unidades para traços poderosos e potencial de combate aprimorado.",
+          "href": "/evolution"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de Chefes",
+          "description": "Estratégias completas de chefes com composições de time, táticas de posicionamento e drops de recompensas.",
+          "href": "/bosses"
+        },
+        {
+          "badge": "Popular",
+          "title": "Modos de Jogo",
+          "description": "Visão geral completa de História, Infinito, Raids, Portais, Desafios e Eventos com dicas.",
+          "href": "/game-modes"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de Traços",
+          "description": "Traços essenciais para cada função de unidade com estratégias de reroll e classificações de prioridade.",
+          "href": "/traits"
+        },
+        {
+          "badge": "Novo",
+          "title": "Construção de Times",
+          "description": "Composições de time ideais para DPS, suporte, tanque e sinergias para todo o conteúdo.",
+          "href": "/teams"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Manhwa Legends?",
+      "paragraphs": [
+        "Manhwa Legends é um RPG de tower defense inspirado em manhwas no Roblox onde você invoca heróis poderosos inspirados na estética de manhwas coreanos. Construa seu esquadrão, evolua e desperte unidades, e defenda o mundo em desafiadores modos de tower defense com traços e habilidades únicas.",
+        "Seja invocando seu primeiro herói lendário, evoluindo unidades para desbloquear traços poderosos ou dominando composições de time para fases difíceis de tower defense, nossa wiki cobre todos os sistemas com guias detalhados, listas de níveis, códigos e passo a passo."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Kooku"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "RPG Tower Defense"
+        },
+        {
+          "label": "Membros no Discord",
+          "value": "104K+"
+        },
+        {
+          "label": "Online no Discord",
+          "value": "25K+"
+        },
+        {
+          "label": "Visualizações do Trailer",
+          "value": "38.7K+"
+        },
+        {
+          "label": "Status",
+          "value": "Lançado"
+        }
+      ],
+      "cta": "Explore Todos os Guias"
+    },
+    "explore": {
+      "title": "Navegação dos Módulos da Página Inicial de Manhwa Legends",
+      "description": "Vá direto para as oito seções da página inicial e role até o módulo que você precisa.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos Manhwa Legends",
+          "description": "Mostre todos os códigos Manhwa Legends atualmente ativos, suas recompensas, requisitos e passos de resgate. Priorize Gems, Rerolls de Traços, Ouro e outras recompensas de alto valor que os jogadores procuram.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "dia1",
+              "detail": "Gems + Rerolls de Traços + Boosters de Ouro",
+              "badge": "Ativo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de Manhwa Legends",
+          "description": "Explique o melhor caminho de progressão inicial para novos jogadores, incluindo invocação, construção de times, upgrades e prioridades de recursos. Destaque erros comuns de iniciantes e no que os jogadores devem se focar primeiro.",
+          "href": "/beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Invoque seus primeiros heróis e construa seu esquadrão inicial"
+            },
+            {
+              "label": "2",
+              "detail": "Aprenda o básico do combate tower defense e posicionamento de unidades"
+            },
+            {
+              "label": "3",
+              "detail": "Resgate códigos para Gems e Rerolls de Traços"
+            },
+            {
+              "label": "4",
+              "detail": "Faça upgrade de unidades-chave e desbloqueie traços básicos"
+            },
+            {
+              "label": "5",
+              "detail": "Progrida pelo Modo História e desbloqueie novos recursos"
+            },
+            {
+              "label": "6",
+              "detail": "Planeje sua estratégia de evolução e despertar"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Unidades Manhwa Legends",
+          "description": "Forneça uma visão geral de unidades notáveis de Manhwa Legends, incluindo suas funções, raridade, pontos fortes e casos de uso gerais. Ajude os jogadores a entender quais personagens se encaixam em times de DPS, suporte, farm e focados em chefes.",
+          "href": "/units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DPS",
+              "detail": "Principais causadores de dano para limpar waves"
+            },
+            {
+              "label": "Suporte",
+              "detail": "Unidades essenciais de buffs e cura"
+            },
+            {
+              "label": "Farm",
+              "detail": "Melhores unidades para grind de recursos"
+            },
+            {
+              "label": "Chefe",
+              "detail": "Unidades especializadas em combates de chefes"
+            },
+            {
+              "label": "AoE",
+              "detail": "Dano em área para fases de swarm"
+            },
+            {
+              "label": "Tanque",
+              "detail": "Unidades de defesa da linha de frente"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lista de Níveis de Manhwa Legends",
+          "description": "Classifique as unidades mais fortes de Manhwa Legends por desempenho geral e utilidade. Separe principais DPS, suporte, farm e unidades situacionais para que os jogadores possam decidir rapidamente quem vale a pena investir.",
+          "href": "/tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Unidades que definem a meta — Prioridade de investimento"
+            },
+            {
+              "label": "A",
+              "detail": "Unidades fortes — Excelentes para progressão"
+            },
+            {
+              "label": "B",
+              "detail": "Unidades sólidas — Boas para situações específicas"
+            },
+            {
+              "label": "C",
+              "detail": "Unidades situacionais — Uso restrito"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Traços de Manhwa Legends",
+          "description": "Explique o sistema de traços de Manhwa Legends e quais traços são mais valiosos para diferentes funções de unidade. Cubra Rerolls de Traços, efeitos de traços desejáveis e como os jogadores devem priorizar recursos de reroll.",
+          "href": "/traits",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DPS",
+              "detail": "Traços de ataque e dano crítico"
+            },
+            {
+              "label": "Suporte",
+              "detail": "Traços de buffs e cura"
+            },
+            {
+              "label": "Defesa",
+              "detail": "Traços de HP e armadura"
+            },
+            {
+              "label": "Utilidade",
+              "detail": "Traços de cooldown e velocidade"
+            },
+            {
+              "label": "AoE",
+              "detail": "Traços de dano em área e alcance"
+            },
+            {
+              "label": "Chefe",
+              "detail": "Traços de dano específico para chefes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Evolução de Manhwa Legends",
+          "description": "Explique como a evolução e o despertar de unidades funcionam e por que importam para a progressão. Cubra prioridades de upgrade, passos de progressão necessários e como evoluir unidades pode melhorar seu potencial de combate.",
+          "href": "/evolution",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Reúna materiais de evolução de fases específicas"
+            },
+            {
+              "label": "2",
+              "detail": "Atinja requisitos de nível de unidades para evolução"
+            },
+            {
+              "label": "3",
+              "detail": "Realize a evolução para desbloquear novos traços"
+            },
+            {
+              "label": "4",
+              "detail": "Desperte unidades para aumentar a eficácia dos traços"
+            },
+            {
+              "label": "5",
+              "detail": "Priorize evoluir unidades dos níveis S e A primeiro"
+            },
+            {
+              "label": "6",
+              "detail": "Planeje o caminho de evolução para conteúdo final"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Modos de Jogo de Manhwa Legends",
+          "description": "Introduza os principais modos de jogo disponíveis em Manhwa Legends e explique o que os jogadores podem esperar de cada um. Cubra conteúdo orientado à progressão como História, Infinito, Raids, Portais, Desafios e novos modos lançados quando oficialmente anunciados.",
+          "href": "/game-modes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "História",
+              "detail": "Modo principal de progressão da campanha"
+            },
+            {
+              "label": "Infinito",
+              "detail": "Desafio de sobrevivência de waves infinitas"
+            },
+            {
+              "label": "Raids",
+              "detail": "Batalhas cooperativas contra chefes"
+            },
+            {
+              "label": "Portais",
+              "detail": "Masmorras de eventos especiais"
+            },
+            {
+              "label": "Desafios",
+              "detail": "Progressão baseada em dificuldade"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Modos de jogo de tempo limitado"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia de Invocação de Manhwa Legends",
+          "description": "Explique o sistema de invocação e banners, incluindo como os jogadores obtêm novas unidades e decidem quando gastar Gems. Destaque alvos de banners valiosos, considerações de raridade e estratégias de economia de recursos para futuras unidades.",
+          "href": "/summon",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Banners",
+              "detail": "Banners de invocação atuais e futuros"
+            },
+            {
+              "label": "Taxas",
+              "detail": "Taxas de drop e sistema pity"
+            },
+            {
+              "label": "Estratégia",
+              "detail": "Quando e o que invocar"
+            },
+            {
+              "label": "Economia",
+              "detail": "Gerenciamento de Gems para futuras unidades"
+            },
+            {
+              "label": "Reroll",
+              "detail": "Estratégias de reroll de conta"
+            },
+            {
+              "label": "Pity",
+              "detail": "Timer pity e sistema de garantia"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Manhwa Legends.",
+      "items": [
+        {
+          "question": "O que é Manhwa Legends?",
+          "answer": "Manhwa Legends é um RPG de tower defense inspirado em manhwas no Roblox onde você invoca heróis poderosos inspirados na estética de manhwas coreanos. Construa seu esquadrão, evolua e desperte unidades, e defenda o mundo em desafiadores modos de tower defense com traços e habilidades únicas."
+        },
+        {
+          "question": "Como resgato códigos em Manhwa Legends?",
+          "answer": "Para resgatar códigos em Manhwa Legends, procure o botão Códigos ou Configurações no menu do jogo, insira o código exatamente como mostrado e reivindique suas recompensas Gems, Rerolls de Traços, Ouro e outros itens valiosos."
+        },
+        {
+          "question": "Quais são as melhores unidades para invocar em Manhwa Legends?",
+          "answer": "As melhores unidades dependem do seu estilo de jogo e composição de time. Confira nossa Lista de Níveis para classificações atuais dos principais DPS, suporte, farm e unidades focadas em chefes. Geralmente, foque em unidades dos níveis S e A para progressão eficiente."
+        },
+        {
+          "question": "Como funcionam evolução e despertar em Manhwa Legends?",
+          "answer": "Evolução requer materiais específicos e níveis de unidade. Quando você evolui uma unidade, ela ganha novos traços e stats melhorados. Despertar melhora ainda mais a eficácia dos traços. Priorize evoluir suas unidades mais fortes primeiro para enfrentar conteúdo mais difícil."
+        },
+        {
+          "question": "Quais traços devo procurar em Manhwa Legends?",
+          "answer": "Procure traços que correspondam à função de uma unidade: ataque e dano crítico para unidades DPS, buffs e cura para suportes, HP e armadura para tanques. Use Rerolls de Traços estrategicamente para melhorar unidades de alto nível."
+        },
+        {
+          "question": "Quais são os melhores modos de jogo para farmar recursos?",
+          "answer": "Modo História é ótimo para progressão inicial, enquanto Modo Infinito oferece oportunidades contínuas de farm. Raids e Eventos frequentemente fornecem materiais de evolução exclusivos e recompensas de alto valor."
+        },
+        {
+          "question": "Como construo um time eficaz em Manhwa Legends?",
+          "answer": "Um time equilibrado geralmente inclui unidades DPS para dano, unidades de suporte para buffs e cura, e unidades da linha de frente para defesa. Considere sinergias e traços ao construir seu esquadrão para diferentes modos de jogo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Manhwa Legends?",
+      "description": "Desde seus primeiros invocamentos de heróis até desafios finais de tower defense, nossa wiki comunitária tem você coberto com guias gratuitos e atualizados.",
+      "primary": "Leia o Guia para Iniciantes",
+      "secondary": "Jogue no Roblox"
+    }
+  },
+  "codes": {
+    "meta": {
+      "title": "Códigos — Todos os Códigos Ativos e Recompensas | Wiki Manhwa Legends",
+      "description": "Todos os códigos funcionando de Manhwa Legends para Gems, Rerolls de Traços, Ouro e outras recompensas valiosas. Atualizado regularmente com novos códigos e datas de expiração."
+    },
+    "overviewTitle": "Visão Geral dos Códigos",
+    "overviewDescription": "Lista completa de todos os códigos ativos de Manhwa Legends com suas recompensas, passos de resgate e informações de expiração. Ganhe Gems, Rerolls de Traços, Ouro e mais."
+  },
+  "tierList": {
+    "meta": {
+      "title": "Lista de Níveis — Melhores Unidades Classificadas | Wiki Manhwa Legends",
+      "description": "Lista de níveis completa classificando todas as unidades de Manhwa Legends do nível S ao C. Encontre as melhores unidades de DPS, suporte, farm e chefes para seu time."
+    },
+    "overviewTitle": "Visão Geral da Lista de Níveis",
+    "overviewDescription": "Classificações de todas as unidades de Manhwa Legends por desempenho geral e utilidade. Separe principais DPS, suporte, farm e unidades situacionais."
+  },
+  "guide": {
+    "meta": {
+      "title": "Guia — Guias para Iniciantes e Estratégias | Wiki Manhwa Legends",
+      "description": "Guia completo para iniciantes e estratégias avançadas para Manhwa Legends. Aprenda invocação, construção de times, progressão e modos de jogo."
+    },
+    "overviewTitle": "Visão Geral do Guia",
+    "overviewDescription": "Guias abrangentes cobrindo tudo desde o primeiro invocamento até estratégias avançadas. Inclui dicas para iniciantes, caminhos de progressão e explicações de modos de jogo."
+  },
+  "units": {
+    "meta": {
+      "title": "Unidades — Todos os Heróis e Personagens | Wiki Manhwa Legends",
+      "description": "Lista completa de todas as unidades de Manhwa Legends com suas funções, raridade, pontos fortes e casos de uso. Encontre os melhores heróis para sua composição de time."
+    },
+    "overviewTitle": "Visão Geral das Unidades",
+    "overviewDescription": "Visão geral de todas as unidades de Manhwa Legends incluindo suas funções, raridade, pontos fortes e casos de uso gerais. Descubra quais personagens se encaixam em times de DPS, suporte, farm e focados em chefes."
+  },
+  "traits": {
+    "meta": {
+      "title": "Traços — Guia do Sistema e Melhores Traços | Wiki Manhwa Legends",
+      "description": "Guia completo do sistema de traços de Manhwa Legends. Aprenda quais traços são mais valiosos para diferentes funções de unidade e como fazer reroll efetivamente."
+    },
+    "overviewTitle": "Visão Geral dos Traços",
+    "overviewDescription": "Explicação do sistema de traços e quais traços são mais valiosos para diferentes funções de unidade. Cubra Rerolls de Traços, efeitos desejáveis e estratégias de reroll."
+  },
+  "progression": {
+    "meta": {
+      "title": "Progressão — Guia de Evolução e Despertar | Wiki Manhwa Legends",
+      "description": "Guia completo da progressão de Manhwa Legends incluindo evolução, despertar, prioridades de upgrade e gerenciamento de recursos."
+    },
+    "overviewTitle": "Visão Geral da Progressão",
+    "overviewDescription": "Aprenda como a evolução e o despertar de unidades funcionam e por que importam para a progressão. Cubra prioridades de upgrade, passos necessários e melhorias do potencial de combate."
+  },
+  "release": {
+    "meta": {
+      "title": "Lançamento — Data de Lançamento e Informações da Plataforma | Wiki Manhwa Legends",
+      "description": "Data de lançamento de Manhwa Legends, informações de acesso antecipado, disponibilidade de plataforma e estatísticas de contagem de jogadores."
+    },
+    "overviewTitle": "Visão Geral do Lançamento",
+    "overviewDescription": "Informações sobre a data de lançamento de Manhwa Legends, acesso antecipado, disponibilidade de plataforma (Roblox), visualizações do trailer e contagem de jogadores."
+  },
+  "community": {
+    "meta": {
+      "title": "Comunidade — Links do Discord e Sociais | Wiki Manhwa Legends",
+      "description": "Junte-se à comunidade Manhwa Legends no Discord, Trello, Twitter e Reddit. Conecte-se com outros jogadores e obtenha as últimas atualizações."
+    },
+    "overviewTitle": "Visão Geral da Comunidade",
+    "overviewDescription": "Links oficiais da comunidade incluindo servidor do Discord, quadro Trello, Twitter e Reddit. Conecte-se com outros jogadores e fique atualizado sobre notícias do jogo."
+  },
+  "bosses": {
+    "meta": {
+      "title": "Chefes — Guia Completo e Walkthrough | Wiki Manhwa Legends",
+      "description": "Guias completos de chefes para Manhwa Legends — todos os encontros de chefes com estratégias, drops e dicas para vitória no tower defense."
+    },
+    "overviewTitle": "Visão Geral dos Chefes",
+    "overviewDescription": "Guias completos para cada encontro de chefe em modos de tower defense de Manhwa Legends, com estratégias, composições de time e informações de recompensas.",
+    "body": "Chefes em Manhwa Legends servem como marcos desafiadores em sua progressão de tower defense. Cada chefe requer composições específicas de unidades, estratégias de traços e táticas de posicionamento para derrotar. Desde chefes iniciais até desafios finais, nossos guias cobrem padrões de ataque, times recomendados e drops de recompensas para ajudá-lo a se preparar para cada encontro.",
+    "guidesTitle": "Guias de Chefes",
+    "readMore": "Ler mais",
+    "new": "Novo",
+    "popular": "Popular"
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Manhwa Legends",
+    "about": "Wiki Manhwa Legends é um hub independente de guias construído por fãs cobrindo heróis, códigos, listas de níveis, estratégias de tower defense e conhecimento essencial do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki Manhwa Legends. Não afiliado com Kooku ou Roblox.",
+    "description": "RPG de tower defense inspirado em manhwas no Roblox. Invoque heróis, construa esquadrões, defenda o mundo.",
+    "playGame": "Jogar Manhwa Legends",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "wikiBuilder": "Wiki e Guias",
+    "beginnerGuide": "Guia para Iniciantes",
+    "raceGuides": "Guias de Heróis",
+    "bossGuides": "Guias de Chefes",
+    "buildGuide": "Guia de Builds",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}
