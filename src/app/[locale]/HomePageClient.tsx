@@ -16,7 +16,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
-  const YOUTUBE_VIDEO_ID = "zpvGp5kOg18";
+  const YOUTUBE_VIDEO_ID = "04jGfslOru4";
 
   return (
     <div className="space-y-16">
