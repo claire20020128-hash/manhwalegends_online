@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Inter } from "next/font/google";
 import { hasLocale } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
@@ -25,6 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     description: "Manhwa Legends Wiki for Roblox with working codes, unit tier lists, beginner guides, traits, evolution tips, team building, raids, and progression help.",
     openGraph: { type: "website", locale, url: siteUrl, siteName: "Manhwa Legends Wiki", images: [{ url: image }] },
     twitter: { card: "summary_large_image", images: [image] },
+    ...(process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID ? { other: { "google-adsense-account": process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID } } : {}),
   };
 }
 
@@ -42,9 +44,19 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     image: `${siteUrl}/images/hero.webp`,
   };
 
+  const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+
   return (
     <html lang={locale} className={`${inter.variable}`} suppressHydrationWarning>
       <body className="min-h-screen bg-background font-sans text-foreground antialiased">
+        {adsenseId && (
+          <Script
+            async
+            strategy="afterInteractive"
+            crossOrigin="anonymous"
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`}
+          />
+        )}
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
           <NextIntlClientProvider messages={messages}>
             <JsonLd data={organization} />
