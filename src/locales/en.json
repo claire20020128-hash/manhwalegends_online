@@ -9,7 +9,7 @@
   "nav": {
     "home": "Home",
     "codes": "Codes",
-    "tierList": "Tier List",
+    "tier": "Tier List",
     "guide": "Guide",
     "units": "Units",
     "traits": "Traits",
@@ -96,7 +96,7 @@
           "badge": "Updated",
           "title": "Unit Tier List",
           "description": "Complete ranking of all units from S to C tier with detailed analysis and recommendations.",
-          "href": "/tier-list"
+          "href": "/tier"
         },
         {
           "badge": "Popular",
@@ -262,7 +262,7 @@
           "order": 4,
           "name": "Manhwa Legends Tier List",
           "description": "Rank the strongest Manhwa Legends units by overall performance and usefulness. Separate top DPS, support, farm, and situational units so players can quickly decide who is worth investing in.",
-          "href": "/tier-list",
+          "href": "/tier",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -466,7 +466,7 @@
     "overviewTitle": "Codes Overview",
     "overviewDescription": "Complete list of all active Manhwa Legends codes with their rewards, redemption steps, and expiration information. Get Gems, Trait Rerolls, Gold, and more."
   },
-  "tierList": {
+  "tier": {
     "meta": {
       "title": "Tier List — Best Units Ranked | Manhwa Legends Wiki",
       "description": "Complete tier list ranking all Manhwa Legends units from S to C tier. Find the best DPS, support, farming, and boss units for your team."

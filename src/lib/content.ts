@@ -238,7 +238,7 @@ export interface NavGroup {
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
   codes: "Codes",
-  "tier-list": "Tier List",
+  tier: "Tier List",
   guide: "Getting Started",
   units: "Units",
   traits: "Traits",
@@ -255,7 +255,7 @@ const GROUP_TITLES_JA: Record<string, string> = {
   skills: "スキル",
   codes: "コード",
   guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  tier: "Tier List",
 };
 
 // locale → 分组标题映射
@@ -270,7 +270,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "codes", "tier-list", "guide", "units", "traits", "progression", "release", "community",
+  "codes", "tier", "guide", "units", "traits", "progression", "release", "community",
 ];
 
 /**

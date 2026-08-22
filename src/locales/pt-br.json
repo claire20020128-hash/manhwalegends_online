@@ -9,7 +9,7 @@
   "nav": {
     "home": "Início",
     "codes": "Códigos",
-    "tierList": "Lista de Níveis",
+    "tier": "Lista de Níveis",
     "guide": "Guia",
     "units": "Unidades",
     "traits": "Traços",
@@ -96,7 +96,7 @@
           "badge": "Atualizado",
           "title": "Lista de Níveis de Unidades",
           "description": "Classificação completa de todas as unidades do nível S até C com análise detalhada e recomendações.",
-          "href": "/tier-list"
+          "href": "/tier"
         },
         {
           "badge": "Popular",
@@ -262,7 +262,7 @@
           "order": 4,
           "name": "Lista de Níveis de Manhwa Legends",
           "description": "Classifique as unidades mais fortes de Manhwa Legends por desempenho geral e utilidade. Separe principais DPS, suporte, farm e unidades situacionais para que os jogadores possam decidir rapidamente quem vale a pena investir.",
-          "href": "/tier-list",
+          "href": "/tier",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -466,7 +466,7 @@
     "overviewTitle": "Visão Geral dos Códigos",
     "overviewDescription": "Lista completa de todos os códigos ativos de Manhwa Legends com suas recompensas, passos de resgate e informações de expiração. Ganhe Gems, Rerolls de Traços, Ouro e mais."
   },
-  "tierList": {
+  "tier": {
     "meta": {
       "title": "Lista de Níveis — Melhores Unidades Classificadas | Wiki Manhwa Legends",
       "description": "Lista de níveis completa classificando todas as unidades de Manhwa Legends do nível S ao C. Encontre as melhores unidades de DPS, suporte, farm e chefes para seu time."

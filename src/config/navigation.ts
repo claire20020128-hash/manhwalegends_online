@@ -9,7 +9,7 @@ interface NavigationItem {
 export const NAVIGATION_CONFIG = [
   { key: "home", path: "/", isContentType: false },
   { key: "codes", path: "/codes", isContentType: true },
-  { key: "tierList", path: "/tier-list", isContentType: true },
+  { key: "tier", path: "/tier", isContentType: true },
   { key: "guide", path: "/guide", isContentType: true },
   { key: "units", path: "/units", isContentType: true },
   { key: "traits", path: "/traits", isContentType: true },
